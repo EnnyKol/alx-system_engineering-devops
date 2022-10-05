@@ -1,5 +1,2 @@
-!/bin/bash
-
-
-Date: 05-10-22
-
+#!/bin/bash
+ls
